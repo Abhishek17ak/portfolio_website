@@ -15,7 +15,7 @@ Data Scientist | Ruggedian Pvt. Ltd. | India | July 2021 – June 2023
 - Conducted data extraction, joining, and quality checks across multiple sources to ensure reliable KPIs and trustworthy insight reporting.
 - Collaborated with PMs and analysts to scope analytical requests, refine problem statements, and deliver findings through clear visualizations and presentations.
 
-Data Scientist | Stony Brook University | NY, USA | Jan 2025 – Current
+Machine Learning Researcher | Stony Brook University | NY, USA | Jan 2025 – Current
 - Analyzed 130,000+ multilingual articles to identify trends, patterns, and comparative insights across languages and sources, improving classification accuracy by 35%.
 - Built multilingual preprocessing and ETL workflows that reduced data preparation time by 20%, enabling faster analytical iteration and insight generation.
 - Developed topic and trend analyses used by research stakeholders to interpret behavioral patterns, sentiment shifts, and emerging signals.
